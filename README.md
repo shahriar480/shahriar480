@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nehal
+#  Hi, I'm Shahriar
 
 ### 💻 Frontend Developer | CSE Student
 
