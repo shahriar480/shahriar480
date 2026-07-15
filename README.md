@@ -18,7 +18,7 @@ I'm currently learning modern frontend development and building responsive web a
 
 ### Languages
 
-HTML • CSS • JavaScript • C# • SQL
+HTML • CSS • JavaScript • C# • SQL • Java • C++
 
 ### Frameworks
 
