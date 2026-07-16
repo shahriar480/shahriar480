@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahriar480&label=Profile%20views&color=8A2BE2&style=flat-square" alt="profile views" />
+ 
   
   <a href="https://www.linkedin.com/in/h-m-shahriar-77a0921a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
