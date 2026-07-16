@@ -2,7 +2,7 @@
 
 Aesthetic GitHub README template.
 
-Replace YOUR_USERNAME and social links.
+Replace shahriar480 and social links.
 
 ## About
 - CSE Student
