@@ -1,146 +1,89 @@
-<a name="top"></a>
-
-<code>Nehal@GitHub:~$ cat README.md</code>
-
-[Me](#me) • [About](#about-me) • [Skills](#-skills) • [Projects](#-projects) • [Stats](#-github-stats) • [Contact](#-lets-connect)
-
-<h1 align="center">💻 Hey, I'm Shahriar 💻</h1>
-<h3 align="center">🌟 Frontend Developer in Progress • CSE Student • Bangladesh 🇧🇩</h3>
+# 💻 Hi, I'm Shahriar — Frontend Developer in Progress
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahriar480&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="shahriar480" />
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=8A2BE2&section=header&text=Hi%2C%20I'm%20Shahriar!&fontSize=40" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/h-m-shahriar-77a0921a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/shahriar.nehal.5"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_darkroastman/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <br />
-  <a href="https://x.com/ShahriarNe89852"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:shahriar.nehal1@email.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<a name="me"></a>
-
-## 👤 Me
-
-- 🎓 **Currently:** CSE Student
-- 🗺️ **Location:** Bangladesh  
-- 🗣️ **Languages:** Bengali, English
-- 💻 **Passionate About:** Frontend Development & Web Design
-- ⭐ **Journey:** Started coding with a passion for building beautiful, responsive interfaces
-- 🎯 **Goal:** Become a skilled Frontend Developer creating amazing user experiences
-- 🚀 **Mantra:** Code • Learn • Improve • Repeat
-
----
-
-<a name="about-me"></a>
-
-## 💡 About Me
-
-* 🎨 I create beautiful, responsive websites that look amazing across all devices
-* 📚 Currently mastering **HTML, CSS & JavaScript**
-* ⚛️ Diving deep into **React.js** for interactive web applications
-* 🔧 Interested in **Web Design**, **UI/UX**, **Animation**, and **Web Performance**
-* 💪 Committed to continuous learning and self-improvement
-* 🌐 Love building projects that solve real-world problems
-
----
-
-<a name="-skills"></a>
-
-## 🧠 Skills & Knowledge
-
-### Frontend Technologies
-* 🏗️ **HTML5** - Semantic markup and structure
-* 🎨 **CSS3** - Layouts, Flexbox, Grid, Animations
-* ⚙️ **JavaScript (ES6+)** - DOM manipulation, Async operations
-* ⚛️ **React.js** - Components, Hooks, State Management
-* 🎭 **Responsive Design** - Mobile-first approach
-
-### Tools & Platforms
-* 🖌️ Design: Figma, Adobe XD
-* 🔧 Code Editors: VS Code
-* 📦 Version Control: Git & GitHub
-* 🚀 Deployment: GitHub Pages, Netlify, Vercel
-
----
-
-<a name="-skills-progress"></a>
-
-## 📈 Current Learning Progress
-
-```
-████████████░░░░░░░░  HTML         ██████████ 100%
-
-███████████░░░░░░░░░  CSS          █████████ 90%
-
-████████░░░░░░░░░░░░  JavaScript   ████████ 60%
-
-████░░░░░░░░░░░░░░░░  React        ████ 20%
-```
-
----
-
-<a name="-projects"></a>
-
-## 🚀 Notable Projects
-
-*Coming soon as I build and showcase my work on GitHub!*
-
-- 🔨 Personal Portfolio Website
-- 💼 Responsive Web Designs
-- ⚛️ Interactive React Applications
-- 📱 Mobile-Optimized Websites
-
----
-
-<a name="-github-stats"></a>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahriar480&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar480&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar480&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<a name="-lets-connect"></a>
-
-## 🔗 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/h-m-shahriar-77a0921a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shahriar.nehal1@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <br />
-  <a href="https://www.facebook.com/shahriar.nehal.5"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://x.com/ShahriarNe89852"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <i>Feel free to reach out if you want to collaborate, discuss web development, or just chat! 🙌</i>
-</p>
-
----
-
-<p align="center">
-  "Every expert was once a beginner. Keep learning, keep building."
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer" />
-</p>
-
-<br />
-<p align="center">
-  <a href="#top">
-    <img src="https://img.shields.io/badge/Back%20to%20the%20Top-2d2d2d?style=for-the-badge&logo=github&logoColor=white" alt="Back to the Top"/>
+  <img src="https://komarev.com/ghpvc/?username=shahriar480&label=Profile%20views&color=8A2BE2&style=flat-square" alt="profile views" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/h-m-shahriar-77a0921a5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/ShahriarNe89852" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:shahriar.nehal1@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
+
+---
+
+## 👋 About me
+- 🎓 CSE Student from Bangladesh
+- 🚀 Passionate about frontend development, UI/UX and building responsive interfaces
+- 🧠 Currently learning React and modern JavaScript (ES6+)
+- 🎯 Goal: Create beautiful, accessible, performant web experiences
+
+---
+
+## 🛠️ Tech & Tools
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 🚧 Learning Progress
+- HTML: 100% ██████████
+- CSS: 90%  █████████░
+- JavaScript: 60% ███████░░░
+- React: 20% ███░░░░░░░
+
+(Tip: Replace these with progress badges or small SVGs if you want a cleaner look.)
+
+---
+
+## 🚀 Featured Projects
+> Add thumbnails or short GIF demos (120–300px height) — they make the projects pop.
+
+### Portfolio Website (In progress)
+- Short: Personal portfolio to showcase projects and blog posts.
+- Demo: add `assets/portfolio-screenshot.png` or a GIF here
+- Link: https://your-portfolio.example.com
+
+### Responsive Web Designs
+- Short: Several responsive landing pages built with HTML/CSS and some JS.
+- Repo: (link to project repo)
+
+### React Mini Apps
+- Short: Interactive components & small SPA examples for practice.
+- Repo: (link to project repo)
+
+(Use this card pattern for each project: thumbnail + 2-line description + link.)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriar480&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar480&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## ✨ Want to collaborate?
+I'm open to small frontend projects or UI/UX tasks. Reach me on:
+- LinkedIn: https://www.linkedin.com/in/h-m-shahriar-77a0921a5/
+- X: https://x.com/ShahriarNe89852
+- Email: shahriar.nehal1@email.com
+
+---
+
+<p align="center">"Every expert was once a beginner. Keep learning, keep building."</p>
