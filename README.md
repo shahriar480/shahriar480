@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahriar480&label=Profile%20views&color=8A2BE2&style=flat-square" alt="profile views" />
-  &nbsp;
+  
   <a href="https://www.linkedin.com/in/h-m-shahriar-77a0921a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -21,6 +21,7 @@
 ---
 
 ## 👋 About me
+
 - 🎓 CSE Student from Bangladesh
 - 🚀 Passionate about frontend development, UI/UX and building responsive interfaces
 - 🧠 Currently learning React and modern JavaScript (ES6+)
@@ -29,7 +30,8 @@
 ---
 
 ## 🛠️ Tech & Tools
-<p>
+
+<p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -41,28 +43,35 @@
 ---
 
 ## 🚧 Learning Progress
-- HTML: 100% ██████████
-- CSS: 90%  █████████░
-- JavaScript: 60% ███████░░░
-- React: 20% ███░░░░░░░
 
-(Tip: Replace these with progress badges or small SVGs if you want a cleaner look.)
+| Skill | Progress |
+|---|---:|
+| HTML | 100% ██████████ |
+| CSS | 90% █████████░ |
+| JavaScript | 60% ███████░░░ |
+| React | 20% ███░░░░░░░ |
+
+*(Tip: Replace these with progress badges or small SVGs for a cleaner look.)*
 
 ---
 
 ## 🚀 Featured Projects
+
 > Add thumbnails or short GIF demos (120–300px height) — they make the projects pop.
 
 ### Portfolio Website (In progress)
+
 - Short: Personal portfolio to showcase projects and blog posts.
 - Demo: add `assets/portfolio-screenshot.png` or a GIF here
 - Link: https://your-portfolio.example.com
 
 ### Responsive Web Designs
+
 - Short: Several responsive landing pages built with HTML/CSS and some JS.
 - Repo: (link to project repo)
 
 ### React Mini Apps
+
 - Short: Interactive components & small SPA examples for practice.
 - Repo: (link to project repo)
 
@@ -71,6 +80,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahriar480&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar480&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
@@ -79,7 +89,9 @@
 ---
 
 ## ✨ Want to collaborate?
+
 I'm open to small frontend projects or UI/UX tasks. Reach me on:
+
 - LinkedIn: https://www.linkedin.com/in/h-m-shahriar-77a0921a5/
 - X: https://x.com/ShahriarNe89852
 - Email: shahriar.nehal1@email.com
