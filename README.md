@@ -1,132 +1,256 @@
-<!-- ===================================================== -->
-<!--                    HERO SECTION                        -->
-<!-- ===================================================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hirad%20Emamialagha&fontSize=70&animation=twinkling" alt="Hirad Emamialagha profile header" />
+</p>
 
-<h1 align="center">
-  Hi 👋, I'm Nehal
-</h1>
-
+<!-- Title -->
 <h3 align="center">
-Frontend Developer in Progress • CSE Student • Bangladesh 🇧🇩
+    <samp>
+        &gt; Hey There!, I am
+        <b><a target="_blank" href="https://www.linkedin.com/in/hirad-alagha/">Hirad Emamialagha</a></b>
+    </samp>
 </h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=900&color=8A2BE2&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer+in+Progress;Building+Modern+Web+Experiences;Always+Learning+New+Things" />
-</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/h-m-shahriar-77a0921a5/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/shahriar.nehal.5">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/_darkroastman/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/ShahriarNe89852">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:shahriar.nehal1@email.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-
-
-# 💫 About Me
-
-<img align="right" width="320" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
-
-### 👨‍💻 Who am I?
-
-- 🎓 CSE Student
-- 🌱 Currently mastering **HTML, CSS & JavaScript**
-- ⚛️ Next stop: **React.js**
-- 💡 Passionate about building modern and responsive websites
-- 🎯 Goal: Become a Frontend Developer
-- 🚀 Always learning something new every day
 
 <br>
 
-```javascript
-const nehal = {
-    location: "Bangladesh",
-    education: "CSE Student",
-    learning: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React"
-    ],
-    goal: "Frontend Developer",
-    motto: "Code • Learn • Improve • Repeat"
-};
-```
+<p align="center">
+<samp>
+「 Lead ML Engineer building scalable AI systems, MLOps platforms, and distributed ML infrastructure 」  
+</samp>
+</p>
 
-## 🚀 Currently Learning
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Lead+Machine+Learning+Engineer;Designing+Scalable+ML+Platforms;Building+ML+Infrastructure;Distributed+Systems+%7C+MLOps+%7C+Production+AI"
+    alt="Typing SVG"
+  />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Animated machine learning visual">
+</p>
 
----
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
 
-## 🛠 Tech Stack
+<!-- Title -->
+<p align="center">
+  <img src="./docs/img/system_access_title.svg" width="100%" alt="System access section title" />
+</p>
 
-### Languages
+<p align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<a href="https://hirademami.github.io/">
+  <img width="82%" src="./docs/img/system/portal_main.svg" alt="Hirad System portal" />
+</a>
 
-### Databases
+</p>
 
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<p align="center">
 
-### Frameworks
+<a href="https://hirademami.github.io/neural-lab/index.html">
+  <img width="32%" src="./docs/img/system/neural_lab.svg" alt="Neural Lab" />
+</a>
+<a href="https://hirademami.github.io/molecules/index.html">
+  <img width="32%" src="./docs/img/system/molecule_lab.svg" alt="Molecule Lab" />
+</a>
+<a href="https://hirademami.github.io/model-forge/index.html">
+  <img width="32%" src="./docs/img/system/model_forge.svg" alt="Model Forge" />
+</a>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+</p>
 
-### Tools
 
-## 🛠️ Development Tools
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Microsoft Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <img src="./docs/img/hirad_core.svg" width="100%" alt="System core panel" />
+</p>
 
----
 
-## 📂 Featured Projects
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
 
-- 💊 Medical Store Management System
-- 🚌 Bus Ticket Management System
-- 🌐 Personal Portfolio
-- ☁️ Weather App
-- ✅ Todo App
 
----
-## 📊 GitHub Stats
+# 🛠 Technologies, Projects, and Domains
 
-![Stats](https://github-readme-stats.vercel.app/api?username=shahriar480&show_icons=true&theme=tokyonight)
+<table border="0" cellspacing="10" cellpadding="0">
+<tr>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar480&layout=compact&theme=tokyonight)
+<!-- LEFT: TOOLS -->
+<td width="420" valign="top" align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shahriar480&theme=tokyonight)
+<h3>🛠 Technologies</h3>
+<br>
 
----
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="32"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="32"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="32"/></td>
+  </tr>
+</table>
 
-## 🌟 Current Focus
+</td>
 
-```text
-██████████░░░░░░░░░░  HTML        ██████████ 100%
+<!-- PROJECTS -->
+<td width="260" valign="top" align="center">
 
-█████████░░░░░░░░░░░ CSS          █████████ 90%
+<h3>🧪 Projects</h3>
+<br>
 
-██████░░░░░░░░░░░░░░ JavaScript   ██████ 60%
+<div style="width:220px;">
+  <a href="docs/PROJECTS.md">
+    <img src="docs/img/tech_projects_panel.svg" width="220" alt="Projects navigation panel">
+  </a>
+</div>
 
-██░░░░░░░░░░░░░░░░░░ React        ██ 20%
-```
+</td>
+
+<!-- AI DOMAINS -->
+<td width="260" valign="top" align="center">
+
+<h3>🧠 AI Domains</h3>
+<br>
+
+<div style="width:220px;">
+    <a href="docs/AI_DOMAIN.md">
+        <img src="docs/img/ai_domains.svg" width="220" alt="AI domains navigation panel">
+    </a>
+</div>
+
+</td>
+
+</tr>
+</table>
+
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
+
+### 📊 Vital Statistics
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiradEmami&theme=radical" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiradEmami&theme=radical" alt="GitHub profile contribution summary" />
+</p>    
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HiradEmami&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Time-3817%20hrs%2020%20mins-blue?style=flat" alt="Views" />
+</p>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: COLLAB -->
+<td width="33%" valign="top">
+
+<h2>🤝 Collaboration</h2>
+
+I’m open to collaborating on:
+
+<ul>
+  <li>ML infrastructure projects</li>
+  <li>Reinforcement learning systems</li>
+  <li>Robotics & autonomous systems</li>
+  <li>Large-scale AI platforms</li>
+</ul>
+
+</td>
+
+<!-- MIDDLE: PANEL -->
+<td width="34%" align="center" valign="middle">
+    <a href="docs/COLLAB.md">
+        <img src="docs/img/collaboration_panel.svg" width="200px" alt="Collaboration navigation panel" />
+    </a>
+</td>
+
+<!-- RIGHT: CONTACT -->
+<td width="33%" valign="top" align="center">
+
+<h2>📫 Contact</h2>
+
+<br>
+
+<a href="https://hirademami.github.io/">
+  <img src="https://img.shields.io/badge/Personal%20Website-hirademami.github.io-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link">
+</a>
+<br><br>
+
+<a href="mailto:hirad.alagha@outlook.com">
+  <img src="https://img.shields.io/badge/email-hirad.alagha@outlook.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+</a>
+<br><br>
+
+<a href="https://www.linkedin.com/in/hirad-alagha/">
+  <img src="https://img.shields.io/badge/linkedin-hirad--alagha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+
+<p align="center">
+⚡ Building scalable AI systems and machine learning infrastructure
+</p>
+<p align="center">
+Star ⭐ the repos if they helped you!
+</p>
+
+<p align="center">
+  <a href="./CODE_OF_CONDUCT.md">Code of Conduct</a> ·
+  <a href="./CONTRIBUTING.md">Collaboration</a> ·
+  <a href="./SECURITY.md">Security</a>
+</p>
+
+
+
+<p align="center">
+    <a href="docs/hidden/easter_egg.md">
+        <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Hidden easter egg link">
+    </a>
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+</p>
+
