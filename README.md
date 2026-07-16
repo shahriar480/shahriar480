@@ -4,7 +4,7 @@
 
 [Me](#me) • [About](#about-me) • [Skills](#-skills) • [Projects](#-projects) • [Stats](#-github-stats) • [Contact](#-lets-connect)
 
-<h1 align="center">💻 Hey, I'm Nehal 💻</h1>
+<h1 align="center">💻 Hey, I'm Shahriar 💻</h1>
 <h3 align="center">🌟 Frontend Developer in Progress • CSE Student • Bangladesh 🇧🇩</h3>
 
 <p align="center">
