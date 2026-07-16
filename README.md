@@ -54,7 +54,7 @@
 
 ## 🏆 GitHub Trophy
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=shahriar480&theme=tokyonight&no-frame=true)
 
 ## 📊 Stats
 
