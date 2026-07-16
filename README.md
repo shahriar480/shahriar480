@@ -22,7 +22,7 @@ I'm currently learning modern frontend development and building responsive web a
 
 ###Databases
 
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  ![Oracle](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=oracle&logoColor=orange)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Frameworks
 
