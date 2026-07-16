@@ -1,82 +1,107 @@
-Hi 👋, I’m Nehal
+# Hi 👋, I'm Nehal
 
-  Replace YOUR_USERNAME, YOUR_LINKEDIN, YOUR_FACEBOOK, YOUR_INSTAGRAM,
-  and YOUR_EMAIL before publishing.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer+in+Progress;Building+Beautiful+Websites;Always+Learning+New+Things" />
+</p>
 
-------------------------------------------------------------------------
+> Replace **YOUR_USERNAME**, **YOUR_LINKEDIN**, **YOUR_FACEBOOK**, **YOUR_INSTAGRAM**, and **YOUR_EMAIL** before publishing.
 
-🚀 About Me
+---
 
--   🎓 CSE Student
--   🌱 Currently learning Frontend Development
--   ⚛️ Learning React
--   🎯 Goal: Land my first Frontend Developer role
--   💡 Passionate about responsive, modern web experiences
+## 🚀 About Me
 
-🌐 Connect
+- 🎓 CSE Student
+- 🌱 Currently learning **Frontend Development**
+- ⚛️ Learning **React**
+- 🎯 Goal: Land my first Frontend Developer role
+- 💡 Passionate about responsive, modern web experiences
 
-------------------------------------------------------------------------
+## 🌐 Connect
 
-💻 Languages
+<p>
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-[HTML] [CSS] [JavaScript] [C#] [Java] [SQL] [Oracle] [C++]
+---
 
-⚛️ Frameworks
+## 💻 Languages
 
-[React]
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-🛠 Tools
+## ⚛️ Frameworks
 
-[Git] [GitHub] [VS Code] [Visual Studio] [Figma]
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-------------------------------------------------------------------------
+## 🛠 Tools
 
-🏆 GitHub Trophy
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-[]
+---
 
-📊 Stats
+## 🏆 GitHub Trophy
 
-[]
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true)
 
-[]
+## 📊 Stats
 
-[]
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-📈 Activity Graph
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
-[]
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
-🐍 Contribution Snake
+## 📈 Activity Graph
 
-    Configure the GitHub Action first, then replace this section with your snake SVG URL.
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)
 
-⭐ Featured Projects
+## 🐍 Contribution Snake
 
--   🌐 Portfolio Website
--   💊 Medical Store Management System
--   ☕ Coffee Shop Management System
--   🌦 Weather App
--   📝 To‑Do App
+```text
+Configure the GitHub Action first, then replace this section with your snake SVG URL.
+```
 
-🎯 2026 Goals
+## ⭐ Featured Projects
 
--   Master HTML & CSS
--   Master JavaScript
--   Learn React
--   Build amazing UI
--   Land a Frontend Developer job
+- 🌐 Portfolio Website
+- 💊 Medical Store Management System
+- ☕ Coffee Shop Management System
+- 🌦 Weather App
+- 📝 To‑Do App
 
-☕ Fun
+## 🎯 2026 Goals
 
-    const nehal = {
-      role: "CSE Student",
-      learning: ["HTML","CSS","JavaScript","React"],
-      goal: "Frontend Developer"
-    }
+- Master HTML & CSS
+- Master JavaScript
+- Learn React
+- Build amazing UI
+- Land a Frontend Developer job
 
-[]
+## ☕ Fun
 
-[]
+```js
+const nehal = {
+  role: "CSE Student",
+  learning: ["HTML","CSS","JavaScript","React"],
+  goal: "Frontend Developer"
+}
+```
 
-⭐ Thanks for visiting!
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet)
+
+### ⭐ Thanks for visiting!
