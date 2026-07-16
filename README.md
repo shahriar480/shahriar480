@@ -102,7 +102,7 @@ I'm open to small frontend projects, UI/UX tasks, and learning opportunities. Le
 
 - 💼 **LinkedIn:** [h-m-shahriar](https://www.linkedin.com/in/h-m-shahriar-77a0921a5/)
 - 🐦 **X (Twitter):** [@ShahriarNe89852](https://x.com/ShahriarNe89852)
-- 📧 **Email:** shahriar.nehal1@email.com
+- 📧 **Email:** shahriar.nehal1@gmail.com
 
 ---
 
@@ -110,6 +110,3 @@ I'm open to small frontend projects, UI/UX tasks, and learning opportunities. Le
   <strong>"Every expert was once a beginner. Keep learning, keep building. 🚀"</strong>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahriar480&color=blueviolet" alt="Profile views" />
-</p>
