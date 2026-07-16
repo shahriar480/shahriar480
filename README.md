@@ -1,4 +1,3 @@
-# 💻 Hi, I'm Shahriar — Frontend Developer in Progress
 
 <p align="center">
   <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=8A2BE2&section=header&text=Hi%2C%20I'm%20Shahriar!&fontSize=40" />
