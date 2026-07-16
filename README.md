@@ -102,6 +102,6 @@ const nehal = {
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=shahriar480&style=for-the-badge&color=blueviolet)
 
 ### ⭐ Thanks for visiting!
