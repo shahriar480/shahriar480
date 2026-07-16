@@ -111,6 +111,4 @@ I'm open to small frontend projects, UI/UX tasks, and learning opportunities. Le
   <strong>"Every expert was once a beginner. Keep learning, keep building. 🚀"</strong>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahriar480&color=blueviolet" alt="Profile views" />
-</p>
+
