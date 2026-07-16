@@ -1,4 +1,4 @@
- 
+  
 <p align="center">
   <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=8A2BE2&section=header&text=Hi%2C%20I'm%20Shahriar!&fontSize=40" />
 </p>
@@ -47,6 +47,8 @@
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img alt="SSMS" src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
@@ -110,5 +112,4 @@ I'm open to small frontend projects, UI/UX tasks, and learning opportunities. Le
 <p align="center">
   <strong>"Every expert was once a beginner. Keep learning, keep building. 🚀"</strong>
 </p>
-
 
