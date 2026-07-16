@@ -49,54 +49,59 @@
 | JavaScript | 60% ███████░░░ |
 | React | 20% ███░░░░░░░ |
 
-*(Tip: Replace these with progress badges or small SVGs for a cleaner look.)*
-
 ---
 
 ## 🚀 Featured Projects
 
-> Add thumbnails or short GIF demos (120–300px height) — they make the projects pop.
+### 📱 Portfolio Website
+**A responsive personal portfolio showcasing my projects and skills.**
+- 🔧 Built with: HTML, CSS, JavaScript
+- 🔗 [Visit Portfolio](https://shahriar480-portfolio.netlify.app)
+- 📂 [View Repository](https://github.com/shahriar480/portfolio-website)
 
-### Portfolio Website (In progress)
+### 🎨 Responsive Web Designs
+**Collection of modern, responsive landing pages and UI components.**
+- 🔧 Built with: HTML5, CSS3, Vanilla JavaScript
+- 📂 [View Repository](https://github.com/shahriar480/responsive-designs)
 
-- Short: Personal portfolio to showcase projects and blog posts.
-- Demo: add `assets/portfolio-screenshot.png` or a GIF here
-- Link: https://your-portfolio.example.com
+### ⚛️ React Mini Apps
+**Interactive React components and small single-page applications for practice.**
+- 🔧 Built with: React, JavaScript (ES6+), CSS
+- 📂 [View Repository](https://github.com/shahriar480/react-mini-apps)
 
-### Responsive Web Designs
-
-- Short: Several responsive landing pages built with HTML/CSS and some JS.
-- Repo: (link to project repo)
-
-### React Mini Apps
-
-- Short: Interactive components & small SPA examples for practice.
-- Repo: (link to project repo)
-
-(Use this card pattern for each project: thumbnail + 2-line description + link.)
+### 🌤️ Weather App
+**Real-time weather application with location-based forecasts.**
+- 🔧 Built with: React, API Integration, CSS
+- 📂 [View Repository](https://github.com/shahriar480/weather-app)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma.vercel.app/api?username=shahriar480&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriar480&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=shahriar480&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar480&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
 
 ## ✨ Want to collaborate?
 
-I'm open to small frontend projects or UI/UX tasks. Reach me on:
+I'm open to small frontend projects, UI/UX tasks, and learning opportunities. Let's build something awesome together!
 
-- LinkedIn: https://www.linkedin.com/in/h-m-shahriar-77a0921a5/
-- X: https://x.com/ShahriarNe89852
-- Email: shahriar.nehal1@email.com
+- 💼 **LinkedIn:** [h-m-shahriar](https://www.linkedin.com/in/h-m-shahriar-77a0921a5/)
+- 🐦 **X (Twitter):** [@ShahriarNe89852](https://x.com/ShahriarNe89852)
+- 📧 **Email:** shahriar.nehal1@email.com
 
 ---
 
-<p align="center">"Every expert was once a beginner. Keep learning, keep building."</p>
+<p align="center">
+  <strong>"Every expert was once a beginner. Keep learning, keep building. 🚀"</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahriar480&color=blueviolet" alt="Profile views" />
+</p>
