@@ -1,11 +1,10 @@
+# 💻 Hi, I'm Shahriar — Frontend Developer in Progress
 
 <p align="center">
   <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=8A2BE2&section=header&text=Hi%2C%20I'm%20Shahriar!&fontSize=40" />
 </p>
 
 <p align="center">
- 
-  
   <a href="https://www.linkedin.com/in/h-m-shahriar-77a0921a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -81,8 +80,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahriar480&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar480&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats-sigma.vercel.app/api?username=shahriar480&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=shahriar480&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
