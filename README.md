@@ -3,10 +3,7 @@
   <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=8A2BE2&section=header&text=Hi%2C%20I'm%20Shahriar!&fontSize=40" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/h-m-shahriar-77a0921a5/">
-    (img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /)
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/al-nahian-fatin)
   <a href="https://x.com/ShahriarNe89852" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
